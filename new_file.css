@@ -1,0 +1,25 @@
+.content{
+ text-align: center;
+ padding: 100px 0 20px 0;
+}
+
+div{
+ font-size: 100px;
+ color: yellowgreen;
+}
+
+span{
+ color:skyblue;
+}
+
+a{
+ color:lightpink;
+}
+
+em{
+ color:lightseagreen;
+}
+
+p{
+ color:orangered;
+}
